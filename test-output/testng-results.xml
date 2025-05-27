@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-27T15:16:31 IST" name="Suite" finished-at="2025-05-27T15:16:37 IST" duration-ms="6089">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T15:16:31 IST" name="Test" finished-at="2025-05-27T15:16:37 IST" duration-ms="6089">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:tests.LoginTest@394df057]" started-at="2025-05-27T15:16:35 IST" name="setUP" finished-at="2025-05-27T15:16:36 IST" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="loginTest()[pri:0, instance:tests.LoginTest@394df057]" started-at="2025-05-27T15:16:36 IST" name="loginTest" finished-at="2025-05-27T15:16:36 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@394df057]" started-at="2025-05-27T15:16:36 IST" name="tearDown" finished-at="2025-05-27T15:16:37 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:tests.HomePageTest@24269709]" started-at="2025-05-27T15:16:31 IST" name="setUP" finished-at="2025-05-27T15:16:34 IST" duration-ms="3722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateHomePage()[pri:0, instance:tests.HomePageTest@24269709]" started-at="2025-05-27T15:16:34 IST" name="validateHomePage" finished-at="2025-05-27T15:16:34 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@24269709]" started-at="2025-05-27T15:16:34 IST" name="tearDown" finished-at="2025-05-27T15:16:35 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
