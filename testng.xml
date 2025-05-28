@@ -4,7 +4,7 @@
 <suite name="Suite">
 
 <listeners>
-    <listener class-name="listners.TestListener" />
+    <listener class-name="listeners.ITestListners" />
 </listeners>
 
   <test thread-count="5" name="Test">
